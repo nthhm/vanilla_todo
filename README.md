@@ -1,2 +1,2 @@
 # codesandbox-test
-Created with CodeSandbox
+codesandboxを用いたReact学習用
